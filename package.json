@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "playwright": "^1.7.1"
+    "playwright": "^1.8.1"
   },
   "name": "playwright-sample",
   "description": "",
